@@ -1,6 +1,14 @@
 {
   "name": "express-app-bootstrap",
+  "description": "The script bootstraps an Express-based node.js RESTful app.",
+  "author": "Yuriy Nemtsov <nemtsov@gmail.com>",
+  "keywords": ["express", "bootstrap"],
   "version": "1.0.0",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgecalm/express-app-bootstrap.git"
+  },
 
   "main": "./lib/app",
   "bin": { 
