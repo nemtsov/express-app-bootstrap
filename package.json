@@ -1,7 +1,7 @@
 {
   "name": "express-app-bootstrap",
   "description": "The script bootstraps an Express-based node.js RESTful app.",
-  "author": "Yuriy Nemtsov <nemtsov@gmail.com>",
+  "author": "Yuriy Nemtsov",
   "keywords": ["express", "bootstrap"],
   "version": "1.0.0",
   
