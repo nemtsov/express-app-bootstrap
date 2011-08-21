@@ -3,7 +3,9 @@
   "version": "1.0.0",
 
   "main": "./lib/app",
-  "bin" : { "express-init" : "./bin/inspector.js" },
+  "bin": { 
+    "express-app-bootstrap": "./bin/express-app-bootstrap" 
+  },
 
   "dependencies": {
     "wrench": "1.1.x"
