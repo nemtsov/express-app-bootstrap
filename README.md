@@ -1,3 +1,5 @@
+Express App Bootstrap
+=====================
 
 The script bootstraps an Express-based node.js RESTful app.
 
