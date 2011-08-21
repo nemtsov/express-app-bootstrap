@@ -1,0 +1,15 @@
+{
+  "name": "express-app-bootstrap",
+  "version": "1.0.0",
+
+  "main": "./lib/app",
+  "bin" : { "express-init" : "./bin/inspector.js" },
+
+  "dependencies": {
+    "wrench": "1.1.x"
+  },
+
+  "engines": {
+    "node": ">=0.1.97"
+  }
+}
