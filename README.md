@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/georgecalm/express-app-bootstrap.png)](http://travis-ci.org/georgecalm/express-app-bootstrap)
 Express App Bootstrap
 =====================
 
